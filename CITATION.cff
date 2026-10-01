@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the thesis below."
+title: "tcSVD: a tensor SVD built on the cosine transform"
+authors:
+  - family-names: Molavi
+    given-names: Mahdi
+    website: "https://mahdimolavi.ir/"
+repository-code: "https://github.com/mahdipc/tcSVD"
+url: "https://mahdimolavi.ir/tensor-decompose/7-Big-Data-Learning-with-Tensor-Representation.html"
+keywords:
+  - tensor decomposition
+  - t-SVD
+  - tc-SVD
+  - discrete cosine transform
+  - classification
+  - clustering
+preferred-citation:
+  type: thesis
+  title: "Big Data Learning with Tensor Representation"
+  authors:
+    - family-names: Molavi
+      given-names: Mahdi
+  thesis-type: "M.Sc. thesis"
+  institution:
+    name: "Tarbiat Modares University"
+  year: 2019
